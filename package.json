@@ -1,0 +1,22 @@
+{
+  "name": "convert-chrome-cookies-to-netscape-format",
+  "version": "1.0.0",
+  "description": "Convert the cookies from Chrome's Application -> Storage -> Cookies, into the Netscape format accepted by youtube-dl ",
+  "main": "convert-cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smart123s/convert-chrome-cookies-to-netscape-format.git"
+  },
+  "author": "dandv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smart123s/convert-chrome-cookies-to-netscape-format/issues"
+  },
+  "homepage": "https://github.com/Smart123s/convert-chrome-cookies-to-netscape-format#readme",
+  "bin": {
+    "convert-cookies": "convert-cookies.js"
+}
+}
